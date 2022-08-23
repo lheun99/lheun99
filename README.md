@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Ha-eun Lee
+### 👋 Hi, I’m Ha-eun
 
 <!---
 lheun99/lheun99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
